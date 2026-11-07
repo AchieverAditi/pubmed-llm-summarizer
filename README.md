@@ -58,3 +58,5 @@ docker run -d --name vllm-llama70b \
 | `--kv-cache-dtype fp8` | halves KV cache memory |
 | `--served-model-name` | must match `MODEL_NAME` in the script |
 | `--host 0.0.0.0` | makes the API reachable on the LAN |
+
+https://youtu.be/yg00RVLrexc    (code walkthrough video link)
